@@ -25,3 +25,5 @@ Potential for Adoption: LLMLingua's ease of use and effectiveness make it a prom
 
 ### Here are some resources that you can explore to get more information of it.
 ![TechTalks article on "Reduce the cost of GPT-4 with Prompt Compression"](https://bdtechtalks.com/2023/12/20/llmlingua-prompt-compression/)
+![LLMLingua Microsoft's offcial GitHub Repo](https://github.com/microsoft/LLMLingua/tree/main)
+
